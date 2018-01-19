@@ -2,7 +2,7 @@
 
 --  
 
-代码 here：[GitHub：]()
+代码 here：[GitHub：scrapy_hotel_review](https://github.com/scofield7419/scrapy_hotel_review)
 --  
 采用scrapy爬取酒店评论数据。
 
